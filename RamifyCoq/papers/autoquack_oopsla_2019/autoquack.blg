@@ -1,0 +1,145 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: autoquack.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: autoquack.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in certicoqpaper
+Warning--empty address in certicoqpaper
+Warning--page numbers missing in both pages and numpages fields in certicoqpaper
+Warning--empty publisher in appelvst
+Warning--empty address in appelvst
+Warning--empty publisher in appel:vmm
+Warning--empty address in appel:vmm
+Warning--empty publisher in bauer20025
+Warning--empty address in bauer20025
+Warning--empty publisher in bengtson:charge
+Warning--empty address in bengtson:charge
+Warning--empty publisher in berdine:smallfoot
+Warning--empty address in berdine:smallfoot
+Warning--empty publisher in bornat:aliasing04
+Warning--empty address in bornat:aliasing04
+Warning--page numbers missing in both pages and numpages fields in bornat:aliasing04
+Warning--empty institution in rwpgt1998
+Warning--empty publisher in char10
+Warning--empty address in char10
+Warning--empty publisher in char11
+Warning--empty address in char11
+Warning--page numbers missing in both pages and numpages fields in chen18
+Warning--empty publisher in chlipala:bedrock
+Warning--empty address in chlipala:bedrock
+Warning--empty address in chou1994
+Warning--empty address in clrs
+Warning--empty publisher in moura2008
+Warning--empty address in moura2008
+Warning--empty publisher in distefanop08
+Warning--empty address in distefanop08
+Warning--empty publisher in dockins09
+Warning--empty address in dockins09
+Warning--empty publisher in dubois2015graphes
+Warning--empty address in dubois2015graphes
+Warning--page numbers missing in both pages and numpages fields in dubois2015graphes
+Warning--page numbers missing in both pages and numpages fields in duprat2001coq
+Warning--empty publisher in cakemlgc
+Warning--empty address in cakemlgc
+Warning--can't use both volume and number fields in gcexample4
+Warning--empty publisher in gcexample4
+Warning--empty address in gcexample4
+Warning--empty publisher in gardnerms12
+Warning--empty address in gardnerms12
+Warning--empty publisher in gueneauetal19
+Warning--empty address in gueneauetal19
+Warning--page numbers missing in both pages and numpages fields in gueneauetal19
+Warning--empty publisher in gueneau17
+Warning--empty address in gueneau17
+Warning--empty address in realworldocaml
+Warning--empty publisher in hobor:ramification
+Warning--empty address in hobor:ramification
+Warning--empty publisher in jacobs:verifast
+Warning--empty address in jacobs:verifast
+Warning--empty publisher in krebbers:iris
+Warning--empty address in krebbers:iris
+Warning--empty school in neelthesis
+Warning--empty publisher in cakeml
+Warning--empty address in cakeml
+Warning--empty publisher in lamneu15
+Warning--empty address in lamneu15
+Warning--empty publisher in leino10
+Warning--empty address in leino10
+Warning--empty publisher in leroy:compcert
+Warning--empty address in leroy:compcert
+Warning--can't use both volume and number fields in gcexample3
+Warning--empty publisher in gcexample3
+Warning--empty address in gcexample3
+Warning--can't use both volume and number fields in gcexample5
+Warning--empty publisher in gcexample5
+Warning--empty address in gcexample5
+Warning--empty publisher in nipkow2016
+Warning--empty address in nipkow2016
+Warning--page numbers missing in both pages and numpages fields in nipkow2016
+Warning--no number and no volume in dijkstra_shortest_path-afp
+Warning--page numbers missing in both pages and numpages fields in dijkstra_shortest_path-afp
+Warning--page numbers missing in both pages and numpages fields in gcexample2
+Warning--empty publisher in raadvg15
+Warning--empty address in raadvg15
+Warning--no journal in ridge2005graphs
+Warning--no number and no volume in ridge2005graphs
+Warning--page numbers missing in both pages and numpages fields in ridge2005graphs
+Warning--empty publisher in ilya-graphs
+Warning--empty address in ilya-graphs
+Warning--empty publisher in tamai2000formal
+Warning--empty address in tamai2000formal
+Warning--empty publisher in wong1991
+Warning--empty address in wong1991
+Warning--empty publisher in yamamoto1995formalization
+Warning--empty address in yamamoto1995formalization
+Warning--empty publisher in yamamoto1998formalization
+Warning--empty address in yamamoto1998formalization
+You've used 63 entries,
+            5719 wiz_defined-function locations,
+            1663 strings with 27983 characters,
+and the built_in function-call counts, 72327 in all, are:
+= -- 8416
+> -- 2441
+< -- 0
++ -- 807
+- -- 836
+* -- 4948
+:= -- 7307
+add.period$ -- 321
+call.type$ -- 63
+change.case$ -- 420
+chr.to.int$ -- 62
+cite$ -- 154
+duplicate$ -- 6791
+empty$ -- 4711
+format.name$ -- 1004
+if$ -- 17129
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 249
+newline$ -- 580
+num.names$ -- 505
+pop$ -- 2636
+preamble$ -- 1
+purify$ -- 983
+quote$ -- 0
+skip$ -- 2449
+stack$ -- 0
+substring$ -- 5470
+swap$ -- 685
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1617
+warning$ -- 91
+while$ -- 497
+width$ -- 0
+write$ -- 1150
+(There were 91 warnings)

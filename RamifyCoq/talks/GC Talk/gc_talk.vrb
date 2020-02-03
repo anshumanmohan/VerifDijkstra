@@ -1,0 +1,25 @@
+\frametitle{Undefined behavior in C}
+A classic OCaml trick to disambiguate int/ptr:
+    \begin{Verbatim}
+int test_int_or_ptr (value x) {
+    return (int)(((intnat)x)&1); }
+    \end{Verbatim}
+
+\uncover<2->{Essentially, assume that pointers are even-aligned.}
+\pause \pause
+
+\bigskip
+
+Consider:
+\begin{Verbatim}
+void foo() {
+  char a; char b; char* pa = &a; char* pb = &b;
+  if ((pa&1 == 0) && (pb&1 == 0)) { /* elided */ } }
+\end{Verbatim}
+
+\pause
+True in C, false in exec!
+
+\bigskip
+
+\pause Discussing \texttt{char} alignment issues with CompCert

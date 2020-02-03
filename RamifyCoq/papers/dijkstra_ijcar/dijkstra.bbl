@@ -1,0 +1,114 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:journals/nm/Dijkstra59}
+Dijkstra, E.W.:
+\newblock A note on two problems in connexion with graphs.
+\newblock Numerische Mathematik \textbf{1} (1959)  269--271
+
+\bibitem{clrs}
+Cormen, T.H., Leiserson, C.E., Rivest, R.L., Stein, C.S.:
+\newblock Introduction to algorithms, 3rd edition.
+\newblock MIT Press and McGraw-Hill (2009)
+
+\bibitem{leroy:compcert}
+Leroy, X.:
+\newblock Formal certification of a compiler back-end or: programming a
+  compiler with a proof assistant.
+\newblock In: Proceedings of the 33rd {ACM} {SIGPLAN-SIGACT} Symposium on
+  Principles of Programming Languages, {POPL} 2006, Charleston, South Carolina,
+  USA, January 11-13, 2006. (2006)  42--54
+
+\bibitem{appel:programlogics}
+Appel, A.W., Dockins, R., Hobor, A., Beringer, L., Dodds, J., Stewart, G.,
+  Blazy, S., Leroy, X.:
+\newblock Program Logics for Certified Compilers.
+\newblock Cambridge University Press, New York, NY, USA (2014)
+
+\bibitem{DBLP:journals/pacmpl/WangCMH19}
+Wang, S., Cao, Q., Mohan, A., Hobor, A.:
+\newblock Certifying graph-manipulating {C} programs via localizations within
+  data structures.
+\newblock {PACMPL} \textbf{3}({OOPSLA}) (2019)  171:1--171:30
+
+\bibitem{coq}
+{C}oq~development team:
+\newblock The {C}oq proof assistant
+
+\bibitem{hobor:ramification}
+Hobor, A., Villard, J.:
+\newblock The ramifications of sharing in data structures.
+\newblock In: Proceedings of the 40th Annual ACM SIGPLAN-SIGACT Symposium on
+  Principles of Programming Languages (POPL'13). (2013)  523--536
+
+\bibitem{backhouse}
+Backhouse, R., Carr\'e, B.:
+\newblock {Regular Algebra Applied to Path-Finding Problems}.
+\newblock J.Inst.Maths.Applics (1975) 15 (1975)  161--186
+
+\bibitem{DBLP:journals/jacm/Tarjan81a}
+Tarjan, R.E.:
+\newblock A unified approach to path problems.
+\newblock J. {ACM} \textbf{28}(3) (1981)  577--593
+
+\bibitem{dolan2013fun}
+Dolan, S.:
+\newblock Fun with semirings: a functional pearl on the abuse of linear
+  algebra.
+\newblock In: Proceedings of the 18th ACM SIGPLAN international conference on
+  Functional programming. (2013)  101--110
+
+\bibitem{krishna2017go}
+Krishna, S., Shasha, D., Wies, T.:
+\newblock Go with the flow: compositional abstractions for concurrent data
+  structures.
+\newblock Proceedings of the ACM on Programming Languages \textbf{2}(POPL)
+  (2017)  1--31
+
+\bibitem{chen2003dijkstra}
+Chen, J.C.:
+\newblock Dijkstra’s shortest path algorithm.
+\newblock Journal of Formalized Mathematics \textbf{15}(9) (2003)  237--247
+
+\bibitem{gordon2003executing}
+Gordon, M., Hurd, J., Slind, K.:
+\newblock Executing the formal semantics of the accellera property
+  specification language by mechanised theorem proving.
+\newblock In: Advanced Research Working Conference on Correct Hardware Design
+  and Verification Methods, Springer (2003)  200--215
+
+\bibitem{Moore2005}
+Moore, J.S., Zhang, Q.:
+\newblock {Proof Pearl: Dijkstra's Shortest Path Algorithm Verified with ACL2}.
+\newblock In Hurd, J., Melham, T., eds.: Theorem Proving in Higher Order
+  Logics, Berlin, Heidelberg, Springer Berlin Heidelberg (2005)  373--384
+
+\bibitem{mange2007verifying}
+Mange, R., Kuhn, J.:
+\newblock {Verifying Dijkstra’s Algorithm in Jahob}.
+\newblock (2007) Student project.
+
+\bibitem{klasen2010verifying}
+Klasen, V.:
+\newblock {Verifying Dijkstra's Algorithm with KeY}.
+\newblock Diploma Thesis (2010)
+
+\bibitem{6200101}
+{Liu}, T., {Nagel}, M., {Taghdiri}, M.:
+\newblock {Bounded Program Verification Using an SMT Solver: A Case Study}.
+\newblock In: 2012 IEEE Fifth International Conference on Software Testing,
+  Verification and Validation. (April 2012)  101--110
+
+\bibitem{robert2002algorithms}
+Robert, S.:
+\newblock Algorithms in c, part 5: Graph algorithms (2002)
+
+\bibitem{DBLP:books/daglib/0022194}
+Skiena, S.:
+\newblock The Algorithm Design Manual, Second Edition.
+\newblock Springer (2008)
+
+\bibitem{heineman2008algorithms}
+Heineman, G., Pollice, G., Selkow, S.:
+\newblock Algorithms in a nutshell (in a nutshell (o’reilly)) (2008)
+
+\end{thebibliography}

@@ -1,0 +1,115 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: autoquack.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: autoquack.bib
+Warning--I didn't find a database entry for "where"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty publisher in certicoqpaper
+Warning--empty address in certicoqpaper
+Warning--page numbers missing in both pages and numpages fields in certicoqpaper
+Warning--empty publisher in appel:vmm
+Warning--empty address in appel:vmm
+Warning--empty publisher in bauer20025
+Warning--empty address in bauer20025
+Warning--empty publisher in bengtson:charge
+Warning--empty address in bengtson:charge
+Warning--empty publisher in berdine:smallfoot
+Warning--empty address in berdine:smallfoot
+Warning--empty publisher in bornat:aliasing04
+Warning--empty address in bornat:aliasing04
+Warning--page numbers missing in both pages and numpages fields in bornat:aliasing04
+Warning--empty publisher in chlipala:bedrock
+Warning--empty address in chlipala:bedrock
+Warning--empty address in clrs
+Warning--empty publisher in moura2008
+Warning--empty address in moura2008
+Warning--empty publisher in distefanop08
+Warning--empty address in distefanop08
+Warning--empty publisher in dubois2015graphes
+Warning--empty address in dubois2015graphes
+Warning--page numbers missing in both pages and numpages fields in dubois2015graphes
+Warning--empty publisher in cakemlgc
+Warning--empty address in cakemlgc
+Warning--can't use both volume and number fields in gcexample4
+Warning--empty publisher in gcexample4
+Warning--empty address in gcexample4
+Warning--empty publisher in gardnerms12
+Warning--empty address in gardnerms12
+Warning--empty publisher in gueneauetal
+Warning--empty address in gueneauetal
+Warning--empty address in realworldocaml
+Warning--empty publisher in hobor:ramification
+Warning--empty address in hobor:ramification
+Warning--empty publisher in jacobs:verifast
+Warning--empty address in jacobs:verifast
+Warning--empty publisher in krebbers:iris
+Warning--empty address in krebbers:iris
+Warning--empty school in neelthesis
+Warning--empty publisher in leino10
+Warning--empty address in leino10
+Warning--empty publisher in leroy:compcert
+Warning--empty address in leroy:compcert
+Warning--can't use both volume and number fields in gcexample3
+Warning--empty publisher in gcexample3
+Warning--empty address in gcexample3
+Warning--can't use both volume and number fields in gcexample5
+Warning--empty publisher in gcexample5
+Warning--empty address in gcexample5
+Warning--page numbers missing in both pages and numpages fields in gcexample2
+Warning--empty publisher in raadvg15
+Warning--empty address in raadvg15
+Warning--empty publisher in ilya-graphs
+Warning--empty address in ilya-graphs
+Warning--empty publisher in wong1991
+Warning--empty address in wong1991
+Warning--empty publisher in yamamoto1995formalization
+Warning--empty address in yamamoto1995formalization
+You've used 44 entries,
+            5719 wiz_defined-function locations,
+            1548 strings with 23780 characters,
+and the built_in function-call counts, 50117 in all, are:
+= -- 5706
+> -- 1732
+< -- 0
++ -- 577
+- -- 583
+* -- 3454
+:= -- 5115
+add.period$ -- 225
+call.type$ -- 44
+change.case$ -- 296
+chr.to.int$ -- 43
+cite$ -- 104
+duplicate$ -- 4706
+empty$ -- 3260
+format.name$ -- 703
+if$ -- 11775
+int.to.chr$ -- 3
+int.to.str$ -- 1
+missing$ -- 165
+newline$ -- 409
+num.names$ -- 351
+pop$ -- 1820
+preamble$ -- 1
+purify$ -- 690
+quote$ -- 0
+skip$ -- 1719
+stack$ -- 0
+substring$ -- 3805
+swap$ -- 483
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1145
+warning$ -- 60
+while$ -- 335
+width$ -- 0
+write$ -- 807
+(There were 61 warnings)

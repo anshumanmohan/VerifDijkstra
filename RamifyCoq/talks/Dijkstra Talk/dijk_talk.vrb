@@ -1,0 +1,21 @@
+\frametitle{Code and Specification}
+$\braces{\p{DijkGraph}(\gamma) \wedge \m{dijk\_correct}(\gamma,\m{src},\m{prev},\m{dist},\m{priq})}$
+\pause
+\begin{Verbatim}
+ while (!pq_emp(pq)) {
+  u = popMin(pq);
+  for (i = 0; i < SIZE; i++) {
+   cost = graph[u][i];
+    if (cost < INF) {
+     if (dist[i] > dist[u] + cost) {
+      dist[i] = dist[u] + cost; prev[i] = u; pq[i] = dist[i];
+ }}}}
+\end{Verbatim}
+\pause
+$\braces{\p{DijkGraph}(\gamma) \wedge
+\alert{\forall \m{dst} \in \m{priq}.~\m{priq}[\m{dst}] = \texttt{INF}} \wedge \null \\
+\m{dijk\_correct}(\gamma,\m{src},\m{prev},\m{dist},\m{priq})}$
+\begin{Verbatim}
+return;
+}
+\end{Verbatim}

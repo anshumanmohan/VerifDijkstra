@@ -1,0 +1,151 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{appel:vst}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=094bbe0caf56f21759576e819dddc50e}{%
+           family={Appel},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{094bbe0caf56f21759576e819dddc50e}
+      \strng{fullhash}{094bbe0caf56f21759576e819dddc50e}
+      \strng{bibnamehash}{094bbe0caf56f21759576e819dddc50e}
+      \strng{authorbibnamehash}{094bbe0caf56f21759576e819dddc50e}
+      \strng{authornamehash}{094bbe0caf56f21759576e819dddc50e}
+      \strng{authorfullhash}{094bbe0caf56f21759576e819dddc50e}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{NFM} 2012, Norfolk, USA, April 3-5}
+      \field{title}{Verified Software Toolchain}
+      \field{year}{2012}
+      \field{pages}{2}
+      \range{pages}{1}
+    \endentry
+    \entry{clrs}{book}{}
+      \name{author}{4}{}{%
+        {{hash=9a4c67d2407675eccd23bc8f86407931}{%
+           family={Cormen},
+           familyi={C\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4170d859c548a9be8431e59182a4d802}{%
+           family={Leiserson},
+           familyi={L\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod}}}%
+        {{hash=5614cb2ff8306dd22ca98f90f5b096af}{%
+           family={Rivest},
+           familyi={R\bibinitperiod},
+           given={Ronald},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bc78426660400760f77758aec45e71a8}{%
+           family={Stein},
+           familyi={S\bibinitperiod},
+           given={Clifford},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{MIT} Press}%
+      }
+      \strng{namehash}{01f793ba2340a1fdd89ba93d34de8939}
+      \strng{fullhash}{11a875f4439ef124c0b9285c6472bbf0}
+      \strng{bibnamehash}{01f793ba2340a1fdd89ba93d34de8939}
+      \strng{authorbibnamehash}{01f793ba2340a1fdd89ba93d34de8939}
+      \strng{authornamehash}{01f793ba2340a1fdd89ba93d34de8939}
+      \strng{authorfullhash}{11a875f4439ef124c0b9285c6472bbf0}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Algorithms}
+      \field{year}{2009}
+    \endentry
+    \entry{leroy:compcert}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=437df325bdf126ab15c356676db2c0d5}{%
+           family={Leroy},
+           familyi={L\bibinitperiod},
+           given={Xavier},
+           giveni={X\bibinitperiod}}}%
+      }
+      \strng{namehash}{437df325bdf126ab15c356676db2c0d5}
+      \strng{fullhash}{437df325bdf126ab15c356676db2c0d5}
+      \strng{bibnamehash}{437df325bdf126ab15c356676db2c0d5}
+      \strng{authorbibnamehash}{437df325bdf126ab15c356676db2c0d5}
+      \strng{authornamehash}{437df325bdf126ab15c356676db2c0d5}
+      \strng{authorfullhash}{437df325bdf126ab15c356676db2c0d5}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{POPL} 2006, Charleston, USA, January 11-13}
+      \field{title}{Formal certification of a compiler back-end or: programming a compiler with a proof assistant}
+      \field{year}{2006}
+      \field{pages}{42\bibrangedash 54}
+      \range{pages}{13}
+    \endentry
+    \entry{wang:autoquack}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=cb7b5328192683be855e7cf48fd4d0f7}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shengyi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=312a5b8ba6b0d37b85e1bdb863481cbb}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Qinxiang},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=bf72783f80a5cf2e944c9261dddd3960}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={Anshuman},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9e9e7df3a02984f833bbf26e3109583a}{%
+           family={Hobor},
+           familyi={H\bibinitperiod},
+           given={Aquinas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{036dbbc11d4e2108c6f90afde6781195}
+      \strng{fullhash}{cbded6c705fac448ec208a7b0c6410bf}
+      \strng{bibnamehash}{036dbbc11d4e2108c6f90afde6781195}
+      \strng{authorbibnamehash}{036dbbc11d4e2108c6f90afde6781195}
+      \strng{authornamehash}{036dbbc11d4e2108c6f90afde6781195}
+      \strng{authorfullhash}{cbded6c705fac448ec208a7b0c6410bf}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{OOPSLA} 2019, Athens, Greece, October 20-25}
+      \field{title}{Certifying graph-manipulating {C} programs via localizations within data structures}
+      \field{year}{2019}
+      \field{pages}{pp. 171:1\bibrangedash 171:30}
+      \range{pages}{-1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

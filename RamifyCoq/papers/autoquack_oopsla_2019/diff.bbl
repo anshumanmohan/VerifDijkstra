@@ -1,0 +1,907 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{66}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{Anand, Appel, Morrisett, Paraskevopoulou,
+  Pollack, Belanger, Sozeau, and Weaver}{Anand et~al\mbox{.}}{2017}]%
+        {certicoqpaper}
+\bibfield{author}{\bibinfo{person}{Abhishek Anand}, \bibinfo{person}{Andrew
+  Appel}, \bibinfo{person}{Greg Morrisett}, \bibinfo{person}{Zoe
+  Paraskevopoulou}, \bibinfo{person}{Randy Pollack},
+  \bibinfo{person}{Olivier~Savary Belanger}, \bibinfo{person}{Matthieu Sozeau},
+  {and} \bibinfo{person}{Matthew Weaver}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{CertiCoq: A verified compiler for Coq}. In
+  \bibinfo{booktitle}{\emph{The Third International Workshop on Coq for
+  Programming Languages (CoqPL)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Appel}{Appel}{2012}]%
+        {appelvst}
+\bibfield{author}{\bibinfo{person}{Andrew~W. Appel}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Verified Software Toolchain}. In
+  \bibinfo{booktitle}{\emph{{NASA} Formal Methods - 4th International
+  Symposium, {NFM} 2012, Norfolk, VA, USA, April 3-5, 2012. Proceedings}}.
+  \bibinfo{pages}{2}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-642-28891-3\_2}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Appel, Dockins, Hobor, Beringer, Dodds,
+  Stewart, Blazy, and Leroy}{Appel et~al\mbox{.}}{2014}]%
+        {appel:programlogics}
+\bibfield{author}{\bibinfo{person}{Andrew~W. Appel}, \bibinfo{person}{Robert
+  Dockins}, \bibinfo{person}{Aquinas Hobor}, \bibinfo{person}{Lennart
+  Beringer}, \bibinfo{person}{Josiah Dodds}, \bibinfo{person}{Gordon Stewart},
+  \bibinfo{person}{Sandrine Blazy}, {and} \bibinfo{person}{Xavier Leroy}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Program Logics for Certified Compilers}}.
+\newblock \bibinfo{publisher}{Cambridge University Press},
+  \bibinfo{address}{New York, NY, USA}.
+\newblock
+\showISBNx{110704801X, 9781107048010}
+
+
+\bibitem[\protect\citeauthoryear{Appel and McAllester}{Appel and
+  McAllester}{2001}]%
+        {appel:fixpoint}
+\bibfield{author}{\bibinfo{person}{Andrew~W. Appel} {and}
+  \bibinfo{person}{David McAllester}.} \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{An Indexed Model of Recursive Types for
+  Foundational Proof-Carrying Code}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Programming Languages and
+  Systems}}  \bibinfo{volume}{23(5)} (\bibinfo{year}{2001}),
+  \bibinfo{pages}{657--683}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Appel, Melli\`es, Richards, and
+  Vouillon}{Appel et~al\mbox{.}}{2007}]%
+        {appel:vmm}
+\bibfield{author}{\bibinfo{person}{Andrew~W. Appel},
+  \bibinfo{person}{Paul-Andr\'e Melli\`es}, \bibinfo{person}{Christopher~D.
+  Richards}, {and} \bibinfo{person}{Jer\^ome Vouillon}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{A Very Modal Model of a Modern, Major, General Type
+  System}. In \bibinfo{booktitle}{\emph{Proceedings of the 34th Annual ACM
+  SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL'07)}}.
+  \bibinfo{pages}{109--122}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bauer and Nipkow}{Bauer and Nipkow}{2002}]%
+        {bauer20025}
+\bibfield{author}{\bibinfo{person}{Gertrud Bauer} {and} \bibinfo{person}{Tobias
+  Nipkow}.} \bibinfo{year}{2002}\natexlab{}.
+\newblock \showarticletitle{The 5 colour theorem in Isabelle/Isar}. In
+  \bibinfo{booktitle}{\emph{International Conference on Theorem Proving in
+  Higher Order Logics}}. Springer, \bibinfo{pages}{67--82}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Beckert, H\"{a}hnle, and Schmitt}{Beckert
+  et~al\mbox{.}}{2007}]%
+        {beckert:2007}
+\bibfield{author}{\bibinfo{person}{Bernhard Beckert}, \bibinfo{person}{Reiner
+  H\"{a}hnle}, {and} \bibinfo{person}{Peter~H. Schmitt}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Verification of Object-oriented Software:
+  The KeY Approach}}.
+\newblock \bibinfo{publisher}{Springer-Verlag}, \bibinfo{address}{Berlin,
+  Heidelberg}.
+\newblock
+\showISBNx{3-540-68977-X, 978-3-540-68977-5}
+
+
+\bibitem[\protect\citeauthoryear{Bengtson, Jensen, and Birkedal}{Bengtson
+  et~al\mbox{.}}{2012}]%
+        {bengtson:charge}
+\bibfield{author}{\bibinfo{person}{Jesper Bengtson},
+  \bibinfo{person}{Jonas~Braband Jensen}, {and} \bibinfo{person}{Lars
+  Birkedal}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Charge! - {A} Framework for Higher-Order Separation
+  Logic in Coq}. In \bibinfo{booktitle}{\emph{Interactive Theorem Proving -
+  Third International Conference, {ITP} 2012, Princeton, NJ, USA, August 13-15,
+  2012. Proceedings}}. \bibinfo{pages}{315--331}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Berdine, Calcagno, and O'Hearn}{Berdine
+  et~al\mbox{.}}{2005}]%
+        {berdine:smallfoot}
+\bibfield{author}{\bibinfo{person}{Josh Berdine}, \bibinfo{person}{Cristiano
+  Calcagno}, {and} \bibinfo{person}{Peter~W. O'Hearn}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Smallfoot: Modular Automatic Assertion Checking
+  with Separation Logic}. In \bibinfo{booktitle}{\emph{FMCO}}.
+  \bibinfo{pages}{115--137}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bornat, Calcagno, and O’Hearn}{Bornat
+  et~al\mbox{.}}{2004}]%
+        {bornat:aliasing04}
+\bibfield{author}{\bibinfo{person}{R. Bornat}, \bibinfo{person}{C. Calcagno},
+  {and} \bibinfo{person}{P. O’Hearn}.} \bibinfo{year}{2004}\natexlab{}.
+\newblock \showarticletitle{Local reasoning, separation and aliasing}. In
+  \bibinfo{booktitle}{\emph{SPACE}}, Vol.~\bibinfo{volume}{4}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bornat, Calcagno, and Yang}{Bornat
+  et~al\mbox{.}}{2006}]%
+        {bornat:var}
+\bibfield{author}{\bibinfo{person}{Richard Bornat}, \bibinfo{person}{Cristiano
+  Calcagno}, {and} \bibinfo{person}{Hongseok Yang}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Variables as Resource in Separation Logic}.
+\newblock \bibinfo{journal}{\emph{ENTCS}}  \bibinfo{volume}{155}
+  (\bibinfo{year}{2006}), \bibinfo{pages}{247--276}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Butler and Sjogren}{Butler and
+  Sjogren}{1998}]%
+        {rwpgt1998}
+\bibfield{author}{\bibinfo{person}{Ricky~W Butler} {and} \bibinfo{person}{Jon~A
+  Sjogren}.} \bibinfo{year}{1998}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{A PVS Graph Theory Library}}.
+\newblock \bibinfo{type}{{T}echnical {R}eport}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chargu{\'{e}}raud}{Chargu{\'{e}}raud}{2010}]%
+        {char10}
+\bibfield{author}{\bibinfo{person}{Arthur Chargu{\'{e}}raud}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Program verification through characteristic
+  formulae}. In \bibinfo{booktitle}{\emph{Proceeding of the 15th {ACM}
+  {SIGPLAN} international conference on Functional programming, {ICFP} 2010,
+  Baltimore, Maryland, USA, September 27-29, 2010}}. \bibinfo{pages}{321--332}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/1863543.1863590}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chargu{\'{e}}raud}{Chargu{\'{e}}raud}{2011}]%
+        {char11}
+\bibfield{author}{\bibinfo{person}{Arthur Chargu{\'{e}}raud}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Characteristic formulae for the verification of
+  imperative programs}. In \bibinfo{booktitle}{\emph{Proceeding of the 16th
+  {ACM} {SIGPLAN} international conference on Functional Programming, {ICFP}
+  2011, Tokyo, Japan, September 19-21, 2011}}. \bibinfo{pages}{418--430}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2034773.2034828}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chargu{\'{e}}raud and
+  Pottier}{Chargu{\'{e}}raud and Pottier}{2015}]%
+        {charpott15}
+\bibfield{author}{\bibinfo{person}{Arthur Chargu{\'{e}}raud} {and}
+  \bibinfo{person}{Fran{\c{c}}ois Pottier}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Machine-Checked Verification of the Correctness and
+  Amortized Complexity of an Efficient Union-Find Implementation}. In
+  \bibinfo{booktitle}{\emph{Interactive Theorem Proving - 6th International
+  Conference, {ITP} 2015, Nanjing, China, August 24-27, 2015, Proceedings}}.
+  \bibinfo{pages}{137--153}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-319-22102-1\_9}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chargu{\'{e}}raud and
+  Pottier}{Chargu{\'{e}}raud and Pottier}{2019}]%
+        {charpott19}
+\bibfield{author}{\bibinfo{person}{Arthur Chargu{\'{e}}raud} {and}
+  \bibinfo{person}{Fran{\c{c}}ois Pottier}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Verifying the Correctness and Amortized Complexity
+  of a Union-Find Implementation in Separation Logic with Time Credits}.
+\newblock \bibinfo{journal}{\emph{J. Autom. Reasoning}} \bibinfo{volume}{62},
+  \bibinfo{number}{3} (\bibinfo{year}{2019}), \bibinfo{pages}{331--365}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/s10817-017-9431-7}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chen, Cohen, L{\'{e}}vy, Merz, and
+  Th{\'{e}}ry}{Chen et~al\mbox{.}}{2018}]%
+        {chen18}
+\bibfield{author}{\bibinfo{person}{Ran Chen}, \bibinfo{person}{Cyril Cohen},
+  \bibinfo{person}{Jean{-}Jacques L{\'{e}}vy}, \bibinfo{person}{Stephan Merz},
+  {and} \bibinfo{person}{Laurent Th{\'{e}}ry}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Formal Proofs of Tarjan's Algorithm in Why3, Coq,
+  and Isabelle}.
+\newblock \bibinfo{journal}{\emph{CoRR}}  \bibinfo{volume}{abs/1810.11979}
+  (\bibinfo{year}{2018}).
+\newblock
+\showeprint[arxiv]{1810.11979}
+\urldef\tempurl%
+\url{http://arxiv.org/abs/1810.11979}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Cheney}{Cheney}{1970}]%
+        {cheney:gc}
+\bibfield{author}{\bibinfo{person}{C.~J. Cheney}.}
+  \bibinfo{year}{1970}\natexlab{}.
+\newblock \showarticletitle{A nonrecursive list compacting algorithm}.
+\newblock \bibinfo{journal}{\emph{Commun. ACM}} \bibinfo{volume}{13},
+  \bibinfo{number}{11} (\bibinfo{year}{1970}), \bibinfo{pages}{677–678}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/362790.362798}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Chin, David, Nguyen, and Qin}{Chin
+  et~al\mbox{.}}{2010}]%
+        {chin:hipsleek}
+\bibfield{author}{\bibinfo{person}{Wei~Ngan Chin}, \bibinfo{person}{Cristina
+  David}, \bibinfo{person}{Huu~Hai Nguyen}, {and} \bibinfo{person}{Shengchao
+  Qin}.} \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Automated verification of shape, size and bag
+  properties via user-defined predicates in separation logic}.
+\newblock \bibinfo{journal}{\emph{Science of Computer Programming}}
+  \bibinfo{volume}{77(9)} (\bibinfo{year}{2010}),
+  \bibinfo{pages}{1,006--1,036}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chlipala}{Chlipala}{2011}]%
+        {chlipala:bedrock}
+\bibfield{author}{\bibinfo{person}{Adam Chlipala}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Mostly-automated verification of low-level programs
+  in computational separation logic}. In \bibinfo{booktitle}{\emph{Proceedings
+  of the 32nd {ACM} {SIGPLAN} Conference on Programming Language Design and
+  Implementation, {PLDI} 2011, San Jose, CA, USA, June 4-8, 2011}}.
+  \bibinfo{pages}{234--245}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chou}{Chou}{1994}]%
+        {chou1994}
+\bibfield{author}{\bibinfo{person}{Ching-Tsun Chou}.}
+  \bibinfo{year}{1994}\natexlab{}.
+\newblock \showarticletitle{{A Formal Theory of Undirected Graphs in
+  Higher-Order Logic}}.
+\newblock In \bibinfo{booktitle}{\emph{Higher Order Logic Theorem Proving and
+  Its Applications}}. \bibinfo{publisher}{Springer}, \bibinfo{pages}{144--157}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Cormen, Leiserson, Rivest, and Stein}{Cormen
+  et~al\mbox{.}}{2009}]%
+        {clrs}
+\bibfield{author}{\bibinfo{person}{Thomas~H. Cormen},
+  \bibinfo{person}{Charles~E. Leiserson}, \bibinfo{person}{Ronald~L. Rivest},
+  {and} \bibinfo{person}{Clifford~S. Stein}.} \bibinfo{year}{2009}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Introduction to algorithms, 3rd edition}}.
+\newblock \bibinfo{publisher}{MIT Press and McGraw-Hill}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{de~Moura and Bj{\o}rner}{de~Moura and
+  Bj{\o}rner}{2008}]%
+        {moura2008}
+\bibfield{author}{\bibinfo{person}{Leonardo~Mendon{\c{c}}a de Moura} {and}
+  \bibinfo{person}{Nikolaj Bj{\o}rner}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{{Z3:} An Efficient {SMT} Solver}. In
+  \bibinfo{booktitle}{\emph{Tools and Algorithms for the Construction and
+  Analysis of Systems, 14th International Conference, {TACAS} 2008, Held as
+  Part of the Joint European Conferences on Theory and Practice of Software,
+  {ETAPS} 2008, Budapest, Hungary, March 29-April 6, 2008. Proceedings}}.
+  \bibinfo{pages}{337--340}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-540-78800-3_24}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Distefano and Parkinson}{Distefano and
+  Parkinson}{2008}]%
+        {distefanop08}
+\bibfield{author}{\bibinfo{person}{Dino Distefano} {and}
+  \bibinfo{person}{Matthew~J. Parkinson}.} \bibinfo{year}{2008}\natexlab{}.
+\newblock \showarticletitle{jStar: towards practical verification for java}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 23rd Annual {ACM} {SIGPLAN}
+  Conference on Object-Oriented Programming, Systems, Languages, and
+  Applications, {OOPSLA} 2008, October 19-23, 2008, Nashville, TN, {USA}}}.
+  \bibinfo{pages}{213--226}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/1449764.1449782}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Dockins, Hobor, and Appel}{Dockins
+  et~al\mbox{.}}{2009}]%
+        {dockins09}
+\bibfield{author}{\bibinfo{person}{Robert Dockins}, \bibinfo{person}{Aquinas
+  Hobor}, {and} \bibinfo{person}{Andrew~W. Appel}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{A Fresh Look at Separation Algebras and Share
+  Accounting}. In \bibinfo{booktitle}{\emph{Programming Languages and Systems,
+  7th Asian Symposium, {APLAS} 2009, Seoul, Korea, December 14-16, 2009.
+  Proceedings}}. \bibinfo{pages}{161--177}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Dubois, Elloumi, Robillard, and
+  Vincent}{Dubois et~al\mbox{.}}{2015}]%
+        {dubois2015graphes}
+\bibfield{author}{\bibinfo{person}{Catherine Dubois}, \bibinfo{person}{Sourour
+  Elloumi}, \bibinfo{person}{Benoit Robillard}, {and}
+  \bibinfo{person}{Cl{\'e}ment Vincent}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Graphes et couplages en Coq}. In
+  \bibinfo{booktitle}{\emph{Vingt-sixi{\`e}mes Journ{\'e}es Francophones des
+  Langages Applicatifs (JFLA 2015)}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Duprat}{Duprat}{2001}]%
+        {duprat2001coq}
+\bibfield{author}{\bibinfo{person}{Jean Duprat}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{A Coq toolkit for graph theory}.
+\newblock \bibinfo{journal}{\emph{Rapport de recherche}}  \bibinfo{volume}{15}
+  (\bibinfo{year}{2001}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Ericsson, Myreen, and Pohjola}{Ericsson
+  et~al\mbox{.}}{2017}]%
+        {cakemlgc}
+\bibfield{author}{\bibinfo{person}{Adam~Sandberg Ericsson},
+  \bibinfo{person}{Magnus~O. Myreen}, {and} \bibinfo{person}{Johannes~{\AA}man
+  Pohjola}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A Verified Generational Garbage Collector for
+  CakeML}. In \bibinfo{booktitle}{\emph{Interactive Theorem Proving - 8th
+  International Conference, {ITP} 2017, Bras{\'{\i}}lia, Brazil, September
+  26-29, 2017, Proceedings}}. \bibinfo{pages}{444--461}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-319-66107-0\_28}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Gammie, Hosking, and Engelhardt}{Gammie
+  et~al\mbox{.}}{2015}]%
+        {gcexample4}
+\bibfield{author}{\bibinfo{person}{Peter Gammie}, \bibinfo{person}{Antony~L
+  Hosking}, {and} \bibinfo{person}{Kai Engelhardt}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Relaxing safely: verified on-the-fly garbage
+  collection for x86-TSO}. In \bibinfo{booktitle}{\emph{ACM SIGPLAN Notices}},
+  Vol.~\bibinfo{volume}{50}. ACM, \bibinfo{pages}{99--109}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gardner, Maffeis, and Smith}{Gardner
+  et~al\mbox{.}}{2012}]%
+        {gardnerms12}
+\bibfield{author}{\bibinfo{person}{Philippa Gardner}, \bibinfo{person}{Sergio
+  Maffeis}, {and} \bibinfo{person}{Gareth~David Smith}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Towards a program logic for JavaScript}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 39th {ACM} {SIGPLAN-SIGACT}
+  Symposium on Principles of Programming Languages, {POPL} 2012, Philadelphia,
+  Pennsylvania, USA, January 22-28, 2012}}. \bibinfo{pages}{31--44}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2103656.2103663}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Gonthier}{Gonthier}{2005}]%
+        {gonthier2005computer}
+\bibfield{author}{\bibinfo{person}{Georges Gonthier}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \bibinfo{title}{A computer-checked proof of the four colour theorem}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gu{\'{e}}neau, Chargu{\'{e}}raud, and
+  Pottier}{Gu{\'{e}}neau et~al\mbox{.}}{2018}]%
+        {gueneauetal}
+\bibfield{author}{\bibinfo{person}{Arma{\"{e}}l Gu{\'{e}}neau},
+  \bibinfo{person}{Arthur Chargu{\'{e}}raud}, {and}
+  \bibinfo{person}{Fran{\c{c}}ois Pottier}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{A Fistful of Dollars: Formalizing Asymptotic
+  Complexity Claims via Deductive Program Verification}. In
+  \bibinfo{booktitle}{\emph{Programming Languages and Systems - 27th European
+  Symposium on Programming, {ESOP} 2018, Held as Part of the European Joint
+  Conferences on Theory and Practice of Software, {ETAPS} 2018, Thessaloniki,
+  Greece, April 14-20, 2018, Proceedings}}. \bibinfo{pages}{533--560}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-319-89884-1\_19}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Gu{\'{e}}neau, Jourdan, Chargu{\'{e}}raud, and
+  Pottier}{Gu{\'{e}}neau et~al\mbox{.}}{2019}]%
+        {gueneauetal19}
+\bibfield{author}{\bibinfo{person}{Arma{\"{e}}l Gu{\'{e}}neau},
+  \bibinfo{person}{Jacques-Henri Jourdan}, \bibinfo{person}{Arthur
+  Chargu{\'{e}}raud}, {and} \bibinfo{person}{Fran{\c{c}}ois Pottier}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Formal proof and analysis of an incremental cycle
+  detection algorithm}. In \bibinfo{booktitle}{\emph{Interactive Theorem
+  Proving - 9th International Conference, {ITP} 2019, Portland, USA, September
+  8-13, 2019, Proceedings}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Gu{\'{e}}neau, Myreen, Kumar, and
+  Norrish}{Gu{\'{e}}neau et~al\mbox{.}}{2017}]%
+        {gueneau17}
+\bibfield{author}{\bibinfo{person}{Arma{\"{e}}l Gu{\'{e}}neau},
+  \bibinfo{person}{Magnus~O. Myreen}, \bibinfo{person}{Ramana Kumar}, {and}
+  \bibinfo{person}{Michael Norrish}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Verified Characteristic Formulae for CakeML}. In
+  \bibinfo{booktitle}{\emph{Programming Languages and Systems - 26th European
+  Symposium on Programming, {ESOP} 2017, Held as Part of the European Joint
+  Conferences on Theory and Practice of Software, {ETAPS} 2017, Uppsala,
+  Sweden, April 22-29, 2017, Proceedings}}. \bibinfo{pages}{584--610}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-662-54434-1\_22}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Hickey, Madhavapeddy, and Minsky}{Hickey
+  et~al\mbox{.}}{2014}]%
+        {realworldocaml}
+\bibfield{author}{\bibinfo{person}{Jason Hickey}, \bibinfo{person}{Anil
+  Madhavapeddy}, {and} \bibinfo{person}{Yaron Minsky}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Real World OCaml}}.
+\newblock \bibinfo{publisher}{OReilly}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hobor and Villard}{Hobor and Villard}{2013}]%
+        {hobor:ramification}
+\bibfield{author}{\bibinfo{person}{Aquinas Hobor} {and} \bibinfo{person}{Jules
+  Villard}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{The ramifications of sharing in data structures}.
+  In \bibinfo{booktitle}{\emph{Proceedings of the 40th Annual ACM
+  SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL'13)}}.
+  \bibinfo{pages}{523--536}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jacobs, Smans, Philippaerts, Vogels,
+  Penninckx, and Piessens}{Jacobs et~al\mbox{.}}{2011}]%
+        {jacobs:verifast}
+\bibfield{author}{\bibinfo{person}{Bart Jacobs}, \bibinfo{person}{Jan Smans},
+  \bibinfo{person}{Pieter Philippaerts}, \bibinfo{person}{Fr{\'{e}}d{\'{e}}ric
+  Vogels}, \bibinfo{person}{Willem Penninckx}, {and} \bibinfo{person}{Frank
+  Piessens}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{VeriFast: {A} Powerful, Sound, Predictable, Fast
+  Verifier for {C} and Java}. In \bibinfo{booktitle}{\emph{{NASA} Formal
+  Methods - Third International Symposium, {NFM} 2011, Pasadena, CA, USA, April
+  18-20, 2011. Proceedings}}. \bibinfo{pages}{41--55}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Krebbers, Timany, and Birkedal}{Krebbers
+  et~al\mbox{.}}{2017}]%
+        {krebbers:iris}
+\bibfield{author}{\bibinfo{person}{Robbert Krebbers}, \bibinfo{person}{Amin
+  Timany}, {and} \bibinfo{person}{Lars Birkedal}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Interactive proofs in higher-order concurrent
+  separation logic}. In \bibinfo{booktitle}{\emph{Proceedings of the 44th {ACM}
+  {SIGPLAN} Symposium on Principles of Programming Languages, {POPL} 2017,
+  Paris, France, January 18-20, 2017}}. \bibinfo{pages}{205--217}.
+\newblock
+\urldef\tempurl%
+\url{http://dl.acm.org/citation.cfm?id=3009855}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Krishnaswami}{Krishnaswami}{2011}]%
+        {neelthesis}
+\bibfield{author}{\bibinfo{person}{Neelakantan~R. Krishnaswami}.}
+  \bibinfo{year}{2011}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Verifying Higher-Order Imperative Programs with
+  Higher-Order Separation Logic}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kumar, Myreen, Norrish, and Owens}{Kumar
+  et~al\mbox{.}}{2014}]%
+        {cakeml}
+\bibfield{author}{\bibinfo{person}{Ramana Kumar}, \bibinfo{person}{Magnus~O.
+  Myreen}, \bibinfo{person}{Michael Norrish}, {and} \bibinfo{person}{Scott
+  Owens}.} \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{CakeML: a verified implementation of {ML}}. In
+  \bibinfo{booktitle}{\emph{The 41st Annual {ACM} {SIGPLAN-SIGACT} Symposium on
+  Principles of Programming Languages, {POPL} '14, San Diego, CA, USA, January
+  20-21, 2014}}. \bibinfo{pages}{179--192}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2535838.2535841}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lammich and Neumann}{Lammich and
+  Neumann}{2015}]%
+        {lamneu15}
+\bibfield{author}{\bibinfo{person}{Peter Lammich} {and}
+  \bibinfo{person}{Ren{\'{e}} Neumann}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{A Framework for Verifying Depth-First Search
+  Algorithms}. In \bibinfo{booktitle}{\emph{Proceedings of the 2015 Conference
+  on Certified Programs and Proofs, {CPP} 2015, Mumbai, India, January 15-17,
+  2015}}. \bibinfo{pages}{137--146}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1145/2676724.2693165}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Lammich and Sefidgar}{Lammich and
+  Sefidgar}{2019}]%
+        {lamsef19}
+\bibfield{author}{\bibinfo{person}{Peter Lammich} {and}
+  \bibinfo{person}{S.~Reza Sefidgar}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Formalizing Network Flow Algorithms: {A} Refinement
+  Approach in Isabelle/HOL}.
+\newblock \bibinfo{journal}{\emph{J. Autom. Reasoning}} \bibinfo{volume}{62},
+  \bibinfo{number}{2} (\bibinfo{year}{2019}), \bibinfo{pages}{261--280}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/s10817-017-9442-4}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Leino}{Leino}{2010}]%
+        {leino10}
+\bibfield{author}{\bibinfo{person}{K.~Rustan~M. Leino}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Dafny: An Automatic Program Verifier for Functional
+  Correctness}. In \bibinfo{booktitle}{\emph{Logic for Programming, Artificial
+  Intelligence, and Reasoning - 16th International Conference, LPAR-16, Dakar,
+  Senegal, April 25-May 1, 2010, Revised Selected Papers}}.
+  \bibinfo{pages}{348--370}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-642-17511-4_20}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Leroy}{Leroy}{2006}]%
+        {leroy:compcert}
+\bibfield{author}{\bibinfo{person}{Xavier Leroy}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Formal certification of a compiler back-end or:
+  programming a compiler with a proof assistant}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 33rd {ACM} {SIGPLAN-SIGACT}
+  Symposium on Principles of Programming Languages, {POPL} 2006, Charleston,
+  South Carolina, USA, January 11-13, 2006}}. \bibinfo{pages}{42--54}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Leroy}{Leroy}{2018}]%
+        {leroy_email}
+\bibfield{author}{\bibinfo{person}{Xavier Leroy}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{title}{Re: The dark corners of C light pointer semantics}.
+\newblock
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{McCreight, Chevalier, and Tolmach}{McCreight
+  et~al\mbox{.}}{2010}]%
+        {gcexample3}
+\bibfield{author}{\bibinfo{person}{Andrew McCreight}, \bibinfo{person}{Tim
+  Chevalier}, {and} \bibinfo{person}{Andrew Tolmach}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{A certified framework for compiling and executing
+  garbage-collected languages}. In \bibinfo{booktitle}{\emph{ACM Sigplan
+  Notices}}, Vol.~\bibinfo{volume}{45}. ACM, \bibinfo{pages}{273--284}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{McCreight, Shao, Lin, and Li}{McCreight
+  et~al\mbox{.}}{2007}]%
+        {gcexample5}
+\bibfield{author}{\bibinfo{person}{Andrew McCreight}, \bibinfo{person}{Zhong
+  Shao}, \bibinfo{person}{Chunxiao Lin}, {and} \bibinfo{person}{Long Li}.}
+  \bibinfo{year}{2007}\natexlab{}.
+\newblock \showarticletitle{A general framework for certifying garbage
+  collectors and their mutators}. In \bibinfo{booktitle}{\emph{ACM SIGPLAN
+  Notices}}, Vol.~\bibinfo{volume}{42}. ACM, \bibinfo{pages}{468--479}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Nipkow}{Nipkow}{2016}]%
+        {nipkow2016}
+\bibfield{author}{\bibinfo{person}{Tobias Nipkow}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Verified analysis of functional data structures}.
+  In \bibinfo{booktitle}{\emph{1st International Conference on Formal
+  Structures for Computation and Deduction (FSCD 2016)}}. Schloss
+  Dagstuhl-Leibniz-Zentrum fuer Informatik.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Nordhoff and Lammich}{Nordhoff and
+  Lammich}{2012}]%
+        {dijkstra_shortest_path-afp}
+\bibfield{author}{\bibinfo{person}{Benedikt Nordhoff} {and}
+  \bibinfo{person}{Peter Lammich}.} \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Dijkstra's Shortest Path Algorithm}.
+\newblock \bibinfo{journal}{\emph{Archive of Formal Proofs}}
+  (\bibinfo{date}{Jan.} \bibinfo{year}{2012}).
+\newblock
+\showISSN{2150-914x}
+\newblock
+\shownote{\url{http://isa-afp.org/entries/Dijkstra_Shortest_Path.shtml}, Formal
+  proof development.}
+
+
+\bibitem[\protect\citeauthoryear{Noschinski}{Noschinski}{2015a}]%
+        {noschinski2015formalizing}
+\bibfield{author}{\bibinfo{person}{Lars Noschinski}.}
+  \bibinfo{year}{2015}\natexlab{a}.
+\newblock \emph{\bibinfo{title}{Formalizing Graph Theory and Planarity
+  Certificates}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}.
+  \bibinfo{school}{Universit{\"a}t M{\"u}nchen}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Noschinski}{Noschinski}{2015b}]%
+        {noschinski2015}
+\bibfield{author}{\bibinfo{person}{Lars Noschinski}.}
+  \bibinfo{year}{2015}\natexlab{b}.
+\newblock \showarticletitle{A Graph Library for {I}sabelle}.
+\newblock \bibinfo{journal}{\emph{Mathematics in Computer Science}}
+  \bibinfo{volume}{9}, \bibinfo{number}{1} (\bibinfo{year}{2015}),
+  \bibinfo{pages}{23--39}.
+\newblock
+\showISSN{1661-8289}
+\urldef\tempurl%
+\url{https://doi.org/10.1007/s11786-014-0183-z}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{O'Hearn, Reynolds, and Yang}{O'Hearn
+  et~al\mbox{.}}{2001}]%
+        {o2001local}
+\bibfield{author}{\bibinfo{person}{Peter O'Hearn}, \bibinfo{person}{John
+  Reynolds}, {and} \bibinfo{person}{Hongseok Yang}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{{Local Reasoning about Programs that Alter Data
+  Structures}}. In \bibinfo{booktitle}{\emph{Computer Science Logic}},
+  \bibfield{editor}{\bibinfo{person}{Laurent Fribourg}} (Ed.).
+  \bibinfo{publisher}{Springer Berlin Heidelberg}, \bibinfo{address}{Berlin,
+  Heidelberg}, \bibinfo{pages}{1--19}.
+\newblock
+\showISBNx{978-3-540-44802-0}
+
+
+\bibitem[\protect\citeauthoryear{O'Hearn}{O'Hearn}{2012}]%
+        {o2012primer}
+\bibfield{author}{\bibinfo{person}{Peter~W. O'Hearn}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{{A Primer on Separation Logic (and Automatic
+  Program Verification and Analysis)}}.
+\newblock \bibinfo{journal}{\emph{Software Safety and Security}}
+  \bibinfo{volume}{33} (\bibinfo{year}{2012}), \bibinfo{pages}{286--318}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Petrank and Hawblitzel}{Petrank and
+  Hawblitzel}{2010}]%
+        {gcexample2}
+\bibfield{author}{\bibinfo{person}{Erez Petrank} {and} \bibinfo{person}{Chris
+  Hawblitzel}.} \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Automated Verification of Practical Garbage
+  Collectors}.
+\newblock \bibinfo{journal}{\emph{Logical Methods in Computer Science}}
+  \bibinfo{volume}{6} (\bibinfo{year}{2010}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Pizlo, Ziarek, Maj, Hosking, Blanton, and
+  Vitek}{Pizlo et~al\mbox{.}}{2010}]%
+        {gcexample4a}
+\bibfield{author}{\bibinfo{person}{Filip Pizlo}, \bibinfo{person}{Lukasz
+  Ziarek}, \bibinfo{person}{Petr Maj}, \bibinfo{person}{Antony~L Hosking},
+  \bibinfo{person}{Ethan Blanton}, {and} \bibinfo{person}{Jan Vitek}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{Schism: fragmentation-tolerant real-time garbage
+  collection}.
+\newblock \bibinfo{journal}{\emph{ACM Sigplan Notices}} \bibinfo{volume}{45},
+  \bibinfo{number}{6} (\bibinfo{year}{2010}), \bibinfo{pages}{146--159}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Raad, Villard, and Gardner}{Raad
+  et~al\mbox{.}}{2015}]%
+        {raadvg15}
+\bibfield{author}{\bibinfo{person}{Azalea Raad}, \bibinfo{person}{Jules
+  Villard}, {and} \bibinfo{person}{Philippa Gardner}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{CoLoSL: Concurrent Local Subjective Logic}. In
+  \bibinfo{booktitle}{\emph{Programming Languages and Systems - 24th European
+  Symposium on Programming, {ESOP} 2015, Held as Part of the European Joint
+  Conferences on Theory and Practice of Software, {ETAPS} 2015, London, UK,
+  April 11-18, 2015. Proceedings}}. \bibinfo{pages}{710--735}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1007/978-3-662-46669-8_29}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Reynolds}{Reynolds}{2003}]%
+        {rey-slnotes}
+\bibfield{author}{\bibinfo{person}{John~C. Reynolds}.}
+  \bibinfo{year}{2003}\natexlab{}.
+\newblock \bibinfo{title}{A Short Course on Separation Logic}.
+  (\bibinfo{year}{2003}).
+\newblock
+\newblock
+\shownote{\url{http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fox-19/member/jcr/wwwaac2003/notes7.ps}.}
+
+
+\bibitem[\protect\citeauthoryear{Ridge}{Ridge}{2005}]%
+        {ridge2005graphs}
+\bibfield{author}{\bibinfo{person}{Tom Ridge}.}
+  \bibinfo{year}{2005}\natexlab{}.
+\newblock \showarticletitle{Graphs and Trees in Isabelle/HOL}.
+\newblock  (\bibinfo{year}{2005}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sergey, Nanevski, and Banerjee}{Sergey
+  et~al\mbox{.}}{2015}]%
+        {ilya-graphs}
+\bibfield{author}{\bibinfo{person}{Ilya Sergey}, \bibinfo{person}{Aleksandar
+  Nanevski}, {and} \bibinfo{person}{Anindya Banerjee}.}
+  \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Mechanized Verification of Fine-grained Concurrent
+  Programs}. In \bibinfo{booktitle}{\emph{PLDI}}. \bibinfo{pages}{77--87}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tamai}{Tamai}{2000}]%
+        {tamai2000formal}
+\bibfield{author}{\bibinfo{person}{Tetsuo Tamai}.}
+  \bibinfo{year}{2000}\natexlab{}.
+\newblock \showarticletitle{Formal treatment of a family of fixed-point
+  problems on graphs by CafeOBJ}. In \bibinfo{booktitle}{\emph{Formal
+  Engineering Methods, 2000. ICFEM 2000. Third IEEE International Conference
+  on}}. IEEE, \bibinfo{pages}{67--74}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Tarski}{Tarski}{1955}]%
+        {tarski:fixpoint}
+\bibfield{author}{\bibinfo{person}{Alfred Tarski}.}
+  \bibinfo{year}{1955}\natexlab{}.
+\newblock \showarticletitle{A lattice-theoretical fixpoint theorem and its
+  applications}.
+\newblock \bibinfo{journal}{\emph{Pacific {J}ournal of {M}athematics}}
+  \bibinfo{volume}{5} (\bibinfo{year}{1955}), \bibinfo{pages}{285--309}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Cao, Mohan, and Hobor}{Wang
+  et~al\mbox{.}}{2019}]%
+        {onlinepaper}
+\bibfield{author}{\bibinfo{person}{Shengyi Wang}, \bibinfo{person}{Qinxiang
+  Cao}, \bibinfo{person}{Anshuman Mohan}, {and} \bibinfo{person}{Aquinas
+  Hobor}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \bibinfo{title}{Extended Autoquack}.
+\newblock
+\newblock
+\urldef\tempurl%
+\url{https://www.comp.nus.edu.sg/~hobor/Publications/2019/autoquack_extended_oopsla19.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Wong}{Wong}{1991}]%
+        {wong1991}
+\bibfield{author}{\bibinfo{person}{Wai Wong}.} \bibinfo{year}{1991}\natexlab{}.
+\newblock \showarticletitle{A Simple Graph Theory And Its Application In
+  Railway Signaling}. In \bibinfo{booktitle}{\emph{HOL Theorem Proving System
+  and Its Applications, 1991., International Workshop on the}}.
+  \bibinfo{pages}{395--409}.
+\newblock
+\urldef\tempurl%
+\url{https://doi.org/10.1109/HOL.1991.596304}
+\showDOI{\tempurl}
+
+
+\bibitem[\protect\citeauthoryear{Yamamoto, Nishizaki, Hagiya, and
+  Toda}{Yamamoto et~al\mbox{.}}{1995}]%
+        {yamamoto1995formalization}
+\bibfield{author}{\bibinfo{person}{Mitsuharu Yamamoto},
+  \bibinfo{person}{Shin-ya Nishizaki}, \bibinfo{person}{Masami Hagiya}, {and}
+  \bibinfo{person}{Yozo Toda}.} \bibinfo{year}{1995}\natexlab{}.
+\newblock \showarticletitle{Formalization of planar graphs}. In
+  \bibinfo{booktitle}{\emph{International Conference on Theorem Proving in
+  Higher Order Logics}}. Springer, \bibinfo{pages}{369--384}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yamamoto, Takahashi, Hagiya, Nishizaki, and
+  Tamai}{Yamamoto et~al\mbox{.}}{1998}]%
+        {yamamoto1998formalization}
+\bibfield{author}{\bibinfo{person}{Mitsuharu Yamamoto}, \bibinfo{person}{Koichi
+  Takahashi}, \bibinfo{person}{Masami Hagiya}, \bibinfo{person}{Shin-ya
+  Nishizaki}, {and} \bibinfo{person}{Tetsuo Tamai}.}
+  \bibinfo{year}{1998}\natexlab{}.
+\newblock \showarticletitle{Formalization of graph search algorithms and its
+  applications}. In \bibinfo{booktitle}{\emph{International Conference on
+  Theorem Proving in Higher Order Logics}}. Springer,
+  \bibinfo{pages}{479--496}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Yang}{Yang}{2001}]%
+        {hongseok:phd}
+\bibfield{author}{\bibinfo{person}{Hongseok Yang}.}
+  \bibinfo{year}{2001}\natexlab{}.
+\newblock \emph{\bibinfo{title}{Local Reasoning for Stateful Programs}}.
+\newblock \bibinfo{thesistype}{Ph.D. Dissertation}. \bibinfo{school}{University
+  of Illinois}.
+\newblock
+
+
+\end{thebibliography}

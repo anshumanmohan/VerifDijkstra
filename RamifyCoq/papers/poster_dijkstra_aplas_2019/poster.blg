@@ -1,0 +1,15 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'poster.blg'
+[52] biber-darwin:313> INFO - === Fri Nov 29, 2019, 12:06:52
+[83] Biber.pm:371> INFO - Reading 'poster.bcf'
+[206] Biber.pm:857> INFO - Found 4 citekeys in bib section 0
+[221] Biber.pm:3976> INFO - Processing section 0
+[242] Biber.pm:4136> INFO - Looking for bibtex format file 'poster.bib' for section 0
+[244] bibtex.pm:1500> INFO - LaTeX decoding ...
+[256] bibtex.pm:1316> INFO - Found BibTeX data source 'poster.bib'
+[299] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[299] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[299] Biber.pm:3804> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[299] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[305] bbl.pm:617> INFO - Writing 'poster.bbl' with encoding 'UTF-8'
+[307] bbl.pm:720> INFO - Output to poster.bbl

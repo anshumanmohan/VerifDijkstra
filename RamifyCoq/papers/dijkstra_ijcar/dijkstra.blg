@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: dijkstra.aux
+The style file: splncs.bst
+Database file #1: dijkstra.bib
+Warning--empty journal in mange2007verifying
+You've used 20 entries,
+            2087 wiz_defined-function locations,
+            613 strings with 7225 characters,
+and the built_in function-call counts, 5737 in all, are:
+= -- 585
+> -- 174
+< -- 12
++ -- 67
+- -- 47
+* -- 350
+:= -- 742
+add.period$ -- 22
+call.type$ -- 20
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 315
+empty$ -- 585
+format.name$ -- 47
+if$ -- 1420
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 20
+newline$ -- 100
+num.names$ -- 22
+pop$ -- 89
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 226
+stack$ -- 0
+substring$ -- 374
+swap$ -- 155
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 55
+width$ -- 22
+write$ -- 216
+(There was 1 warning)

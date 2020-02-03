@@ -1,0 +1,18 @@
+\frametitle{Undefined behavior in C}
+
+  \begin{itemize}
+  \item Double-bounded pointer comparisons:
+    \begin{Verbatim}
+int Is_from(value * from_start,
+            value * from_limit, value * v) {
+    return (from_start <= v && v < from_limit); }
+    \end{Verbatim}
+    Resolved using CompCert's ``extcall\_properties''.
+    \pause
+  \item A classic OCaml trick:
+    \begin{Verbatim}
+int test_int_or_ptr (value x) {
+    return (int)(((intnat)x)&1); }
+    \end{Verbatim}
+    Discussing \texttt{char} alignment issues with CompCert.
+  \end{itemize}

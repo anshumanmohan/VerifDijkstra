@@ -1,0 +1,75 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{Introduction}{2}{Introduction}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\slideentry {1}{0}{2}{3/3}{}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{0}{3}{4/4}{}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\slideentry {1}{0}{4}{5/6}{}{0}}
+\headcommand {\beamer@framepages {5}{6}}
+\headcommand {\slideentry {1}{0}{5}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@sectionpages {2}{7}}
+\headcommand {\beamer@subsectionpages {2}{7}}
+\headcommand {\sectionentry {2}{Motivation}{8}{Motivation}{0}}
+\headcommand {\slideentry {2}{0}{1}{8/11}{}{0}}
+\headcommand {\beamer@framepages {8}{11}}
+\headcommand {\slideentry {2}{0}{2}{12/26}{}{0}}
+\headcommand {\beamer@framepages {12}{26}}
+\headcommand {\slideentry {2}{0}{3}{27/30}{}{0}}
+\headcommand {\beamer@framepages {27}{30}}
+\headcommand {\beamer@sectionpages {8}{30}}
+\headcommand {\beamer@subsectionpages {8}{30}}
+\headcommand {\sectionentry {3}{The Mathematical Graph Library}{31}{The Mathematical Graph Library}{0}}
+\headcommand {\beamer@subsectionpages {31}{30}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{31}{Core Definitions}}
+\headcommand {\slideentry {3}{1}{1}{31/37}{Core Definitions}{0}}
+\headcommand {\beamer@framepages {31}{37}}
+\headcommand {\beamer@subsectionpages {31}{37}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{38}{Architecture}}
+\headcommand {\slideentry {3}{2}{1}{38/38}{Architecture}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@sectionpages {31}{38}}
+\headcommand {\beamer@subsectionpages {38}{38}}
+\headcommand {\sectionentry {4}{The Spatial Inference of Graph}{39}{The Spatial Inference of Graph}{0}}
+\headcommand {\beamer@subsectionpages {39}{38}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{39}{Spatial Representation of Graphs}}
+\headcommand {\slideentry {4}{1}{1}{39/44}{Spatial Representation of Graphs}{0}}
+\headcommand {\beamer@framepages {39}{44}}
+\headcommand {\beamer@subsectionpages {39}{44}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{45}{Localize Rule}}
+\headcommand {\slideentry {4}{2}{1}{45/50}{Localize Rule}{0}}
+\headcommand {\beamer@framepages {45}{50}}
+\headcommand {\slideentry {4}{2}{2}{51/51}{Localize Rule}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\beamer@sectionpages {39}{51}}
+\headcommand {\beamer@subsectionpages {45}{51}}
+\headcommand {\sectionentry {5}{Verification of the Find function}{52}{Verification of the Find function}{0}}
+\headcommand {\beamer@subsectionpages {52}{51}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{52}{Specification}}
+\headcommand {\slideentry {5}{1}{1}{52/53}{Specification}{0}}
+\headcommand {\beamer@framepages {52}{53}}
+\headcommand {\beamer@subsectionpages {52}{53}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{54}{Proof Skeleton}}
+\headcommand {\slideentry {5}{2}{1}{54/64}{Proof Skeleton}{0}}
+\headcommand {\beamer@framepages {54}{64}}
+\headcommand {\slideentry {5}{2}{2}{65/66}{Proof Skeleton}{0}}
+\headcommand {\beamer@framepages {65}{66}}
+\headcommand {\beamer@sectionpages {52}{66}}
+\headcommand {\beamer@subsectionpages {54}{66}}
+\headcommand {\sectionentry {6}{A Garbage Collector}{67}{A Garbage Collector}{0}}
+\headcommand {\slideentry {6}{0}{1}{67/69}{}{0}}
+\headcommand {\beamer@framepages {67}{69}}
+\headcommand {\slideentry {6}{0}{2}{70/70}{}{0}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\slideentry {6}{0}{3}{71/72}{}{0}}
+\headcommand {\beamer@framepages {71}{72}}
+\headcommand {\beamer@partpages {1}{72}}
+\headcommand {\beamer@subsectionpages {67}{72}}
+\headcommand {\beamer@sectionpages {67}{72}}
+\headcommand {\beamer@documentpages {72}}
+\headcommand {\gdef \inserttotalframenumber {20}}

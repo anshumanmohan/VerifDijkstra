@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Specification}{11}{0}{2}
+\beamer@sectionintoc {3}{Our Garbage Collector}{17}{0}{3}
+\beamer@sectionintoc {4}{Meat and Potatoes}{40}{0}{4}
+\beamer@sectionintoc {5}{Findings}{79}{0}{5}
+\beamer@sectionintoc {6}{Future Work}{95}{0}{6}

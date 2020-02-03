@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Motivation}{8}{0}{2}
+\beamer@sectionintoc {3}{The Mathematical Graph Library}{31}{0}{3}
+\beamer@subsectionintoc {3}{1}{Core Definitions}{31}{0}{3}
+\beamer@subsectionintoc {3}{2}{Architecture}{38}{0}{3}
+\beamer@sectionintoc {4}{The Spatial Inference of Graph}{39}{0}{4}
+\beamer@subsectionintoc {4}{1}{Spatial Representation of Graphs}{39}{0}{4}
+\beamer@subsectionintoc {4}{2}{Localize Rule}{45}{0}{4}
+\beamer@sectionintoc {5}{Verification of the Find function}{52}{0}{5}
+\beamer@subsectionintoc {5}{1}{Specification}{52}{0}{5}
+\beamer@subsectionintoc {5}{2}{Proof Skeleton}{54}{0}{5}
+\beamer@sectionintoc {6}{A Garbage Collector}{67}{0}{6}
