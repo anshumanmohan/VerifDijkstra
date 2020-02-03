@@ -25,7 +25,7 @@ You will see two warnings at the very top, but these can be safely ignored. The 
 ## Quick Tour
 We point out examine some of the items discussed in the paper. The hyperlinks that follow lead back into this GitHub repository.
 
-1. The C code for Dijkstra's algorithm is [here](www.example.com). 
-2. We use VST's clightgen tool to convert this into a Coq-readable AST. That .v file is [here](www.example.com). 
-3. The spatial representation of the graph comes together [here](www.example.com). 
-4. The Coq verification of the algorithm is [here](www.example.com). Note how dijkstra_correct, the correctness condition and while loop invariant, is defined [here](www.example.com). Just above it are the definitions of inv_popped, inv_unpopped, and inv_unseen, as dicussed in the paper.
+1. The C code for Dijkstra's algorithm is [here](https://github.com/anshumanmohan/VerifDijkstra/blob/master/RamifyCoq/sample_mark/dijkstra.c). 
+2. We use VST's clightgen tool to convert this into a Coq-readable AST. That .v file is [here](https://github.com/anshumanmohan/VerifDijkstra/blob/master/RamifyCoq/sample_mark/dijkstra.v). 
+3. The spatial representation of the graph comes together [here](https://github.com/anshumanmohan/VerifDijkstra/blob/master/RamifyCoq/msl_application/DijkstraArrayGraph.v) and [here](https://github.com/anshumanmohan/VerifDijkstra/blob/master/RamifyCoq/sample_mark/spatial_dijkstra_array_graph.v). 
+4. The Coq verification of the algorithm is [here](https://github.com/anshumanmohan/VerifDijkstra/blob/master/RamifyCoq/sample_mark/verif_dijkstra.v). Note how dijkstra_correct, the correctness condition and while loop invariant, is defined [here](https://github.com/anshumanmohan/VerifDijkstra/blob/master/RamifyCoq/sample_mark/verif_dijkstra.v#L1011-L1016). Just above it are the definitions of inv_popped, inv_unpopped, and inv_unseen, as dicussed in the paper.
